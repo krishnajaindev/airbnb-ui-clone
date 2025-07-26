@@ -7,7 +7,7 @@ A **fully responsive UI clone of Airbnb**, built using **pure HTML, CSS**, and f
 
 # 🌐 Live Demo
 
-🔗 **Live Website:** [https://krishnajain-dev.github.io/airbnb-ui-clone](https://krishnajain-dev.github.io/airbnb-ui-clone)
+🔗 **Live Website:** [https://airbnb-ui-clone-two.vercel.app/](https://airbnb-ui-clone-two.vercel.app/)
   
 
 ---
@@ -92,7 +92,7 @@ To run this project locally, follow these steps:
 
 ## 📫 Connect With Me
 
-* ✉️ [krishnajain2507@gmail.com](mailto:krishnajain.dev@gmail.com)
+* ✉️ [krishnajain.dev@gmail.com](mailto:krishnajain.dev@gmail.com)
 * 🔗 [LinkedIn](https://www.linkedin.com/in/krishnajaindev/)
 * 💻 [GitHub](https://github.com/krishnajaindev)
 
